@@ -1,0 +1,103 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	font-family: Comic Sans MS;
+	font-size: 120%;
+	background: #2F80ED;
+}
+.header
+{
+	width: 965px;
+	margin: 70px auto 0px;
+	color: #43ABEA;
+	background: white;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+	margin-left: 300px;
+}
+.banner
+{
+	position: absolute;
+	top: 0;
+	margin-top: 152px; 
+	box-sizing: border-box;
+	right: 0;
+	padding: 40px;
+	width: 540px;
+	height: 780px;
+	margin-right: 149px; 
+	background-size: cover;
+	background-position: center;
+	box-shadow: 20px 10px 20px;
+	background-image: url(1.JPEG);
+	color: #2B32B2;
+}
+
+form
+{
+	width: 430px;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+	margin-left: 300px;
+}
+.input-group
+{
+	margin: 10px 0px 10px 0px;
+}
+.input-group label
+{
+	display: block;
+	text-align: left;
+	margin: 3px;
+	color: #178DD5;
+	font-family: Comic Sans MS;
+}
+.input-group input
+{
+	height: 30px;
+	width: 91%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	color: #178DD5;
+	font-family: Comic Sans MS;
+	border: 1px solid #178DD5;
+}
+.btn
+{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #43ABEA;
+	border: none;
+	border-radius: 5px;
+	font-family: Comic Sans MS;
+}
+p
+{
+	color: #178DD5;
+}
+a
+{
+	color: #EA56AD;
+}
+.error
+{
+	width: 90%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
